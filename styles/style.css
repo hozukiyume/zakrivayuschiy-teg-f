@@ -157,6 +157,7 @@
   block-size: 38px;
   margin-inline-end: 25px;
   margin-block-end: 25px;
+  gap: 7px;
 }
 
 .card__icon-button {
@@ -167,6 +168,7 @@
   border-radius: 0;
   cursor: pointer;
   transition: border-color 0.3s ease;
+  padding: 0;
 }
 
 .card__icon-button:focus {
